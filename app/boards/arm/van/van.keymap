@@ -55,7 +55,7 @@
 // ------------------------------------------------------------------------------------------------
 			bindings = <
 	&trans  &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT  &kp CARET  &kp AMPS  &kp ASTERISK  &kp LPAR  &kp RPAR  &kp LBKT &kp RBKT
-	&trans  &kp BSLH  &kp LT  &kp GT  &GRAVE  &trans  &trans  &trans  &trans  &kp F11  &kp F12 &trans          
+	&trans  &kp BSLH  &kp LT  &kp GT  &GRAVE  &kp LBKT &kp RBKT &trans  &trans  &kp F11  &kp F12 &trans          
 	&trans   &trans &trans  &trans  &trans  &trans  &trans &trans  &trans &trans &trans          &trans
 	&trans &trans &trans    &trans &trans &trans         &trans                     &trans  &trans  &trans 
 			>;
