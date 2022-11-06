@@ -38,7 +38,7 @@
 // |   BT 4  |      |      |             TOG RGB                | PRT SCR |       |       |  DEL  |
 // ------------------------------------------------------------------------------------------------
 			bindings = <
-	&kp TILDE  &kp MINUS  &kp UP  &GRAVE  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &trans &trans
+	&kp TILDE  &kp MINUS  &kp UP  &grave  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &trans &trans
 	&trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &kp MINUS  &kp EQUAL  &kp N4  &kp N5  &kp N6  &kp SEMI &trans          
 	&trans   &trans &trans  &kp DEL  &trans  &trans  &kp N0 &kp N1  &kp N2 &kp N3 &trans          &mo 3
 	&kp LGUI &trans &trans  &trans &trans &trans          &trans                     &trans  &trans  &trans 
@@ -55,7 +55,7 @@
 // ------------------------------------------------------------------------------------------------
 			bindings = <
 	&trans  &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT  &kp CARET  &kp AMPS  &kp ASTERISK  &kp LPAR  &kp RPAR  &kp LBKT &kp RBKT
-	&trans  &kp BSLH  &kp LT  &kp GT  &GRAVE  &kp LBKT &kp RBKT &trans  &trans  &kp F11  &kp F12 &trans          
+	&trans  &kp BSLH  &kp LT  &kp GT  &grave  &kp LBKT &kp RBKT &trans  &trans  &kp F11  &kp F12 &trans          
 	&trans   &trans &trans  &trans  &trans  &trans  &trans &trans  &trans &trans &trans          &trans
 	&trans &trans &trans    &trans &trans &trans         &trans                     &trans  &trans  &trans 
 			>;
